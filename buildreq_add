@@ -1,0 +1,17 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-activemodel
+rubygem-activerecord
+rubygem-activesupport
+rubygem-arel
+rubygem-builder
+rubygem-i18n
+rubygem-jeweler
+rubygem-minitest
+rubygem-rake
+rubygem-rdoc
+rubygem-test-unit
+rubygem-thread_safe
+rubygem-tzinfo
+rubygem-sqlite3
